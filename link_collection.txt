@@ -1,0 +1,2 @@
+# 使用VGG16来进行dog和cat的分类
+https://github.com/mlelarge/dataflowr/blob/master/CEA_EDF_INRIA/01_intro_DLDIY_colab.ipynb   
