@@ -4,4 +4,5 @@ https://github.com/mlelarge/dataflowr/blob/master/CEA_EDF_INRIA/01_intro_DLDIY_c
 # 使用resnet50来进行不同dog的分类
 https://github.com/zergtant/pytorch-handbook/blob/master/chapter4/4.1-fine-tuning.ipynb
 
-
+# PyTorch_Tutorial,实用案例
+https://github.com/tensor-yu/PyTorch_Tutorial
