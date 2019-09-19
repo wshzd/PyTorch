@@ -1,0 +1,15 @@
+元学习的pytorch库
+https://github.com/tristandeleu/pytorch-meta
+可以配合以下论文八章
+1）https://www.zhuanzhi.ai/paper/61e36771d2ee93c416e8eb2ebed7c307
+2）https://www.zhuanzhi.ai/paper/75b6ea47af934e635108622e60e66c44
+2）https://sites.google.com/view/imaml
+3）https://www.zhuanzhi.ai/paper/a443f941e075d1df7dbccf3b5cf55568
+4）https://www.zhuanzhi.ai/paper/a443f941e075d1df7dbccf3b5cf55568
+5）https://www.zhuanzhi.ai/paper/d7271232452b98d7ff27301681fa65e7
+6）https://www.zhuanzhi.ai/paper/041f96c7f86a79ebdf9399ea61405aa7
+7）https://www.zhuanzhi.ai/paper/e5ecefaca79ad73526af031b6aec6fb6
+8）https://www.zhuanzhi.ai/paper/e5ecefaca79ad73526af031b6aec6fb6   https://github.com/liuzechun/runing
+
+
+
