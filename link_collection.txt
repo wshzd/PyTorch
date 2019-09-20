@@ -12,6 +12,11 @@ https://github.com/tensor-yu/PyTorch_Tutorial
 Pytorch-handbook
 https://github.com/wshzd/pytorch-handbook
 
+李沐等人的开源中文书《动手学深度学习》
+https://github.com/ShusenTang/Dive-into-DL-PyTorch
+https://github.com/d2l-ai/d2l-zh
+
+
 
 
 
