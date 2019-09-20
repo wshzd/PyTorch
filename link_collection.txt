@@ -9,7 +9,8 @@ https://github.com/tensor-yu/PyTorch_Tutorial
 
 # pytorch_transformers这个库可以直接使用主流的GPT2、bert、xlnet网络，具体可以参考微信的收藏。
 
-
+Pytorch-handbook
+https://github.com/wshzd/pytorch-handbook
 
 
 
