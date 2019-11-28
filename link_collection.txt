@@ -16,7 +16,7 @@ https://github.com/wshzd/pytorch-handbook
 https://github.com/ShusenTang/Dive-into-DL-PyTorch
 https://github.com/d2l-ai/d2l-zh
 
-
-
+Pytorch2019年11月新书《Pytorch深度学习实战指南》代码
+https://github.com/deep-learning-with-pytorch/dlwpt-code
 
 
