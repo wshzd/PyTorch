@@ -19,4 +19,5 @@ https://github.com/d2l-ai/d2l-zh
 Pytorch2019年11月新书《Pytorch深度学习实战指南》代码
 https://github.com/deep-learning-with-pytorch/dlwpt-code
 
-
+PyTorch 自然语言处理（Natural Language Processing with PyTorch 中文版）
+https://github.com/apachecn/nlp-pytorch-zh
