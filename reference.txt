@@ -21,3 +21,6 @@ https://github.com/deep-learning-with-pytorch/dlwpt-code
 
 PyTorch 自然语言处理（Natural Language Processing with PyTorch 中文版）
 https://github.com/apachecn/nlp-pytorch-zh
+
+《Natural Language Processing with PyTorch 2019》
+https://github.com/joosthub/PyTorchNLPBook
