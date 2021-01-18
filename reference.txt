@@ -27,7 +27,7 @@ https://github.com/joosthub/PyTorchNLPBook
 
 pytorch lightning
 https://github.com/PyTorchLightning/pytorch-lightning
-
+https://pytorch-lightning.readthedocs.io/en/stable/
 
 
 
