@@ -24,3 +24,11 @@ https://github.com/apachecn/nlp-pytorch-zh
 
 《Natural Language Processing with PyTorch 2019》
 https://github.com/joosthub/PyTorchNLPBook
+
+pytorch lightning
+https://github.com/PyTorchLightning/pytorch-lightning
+
+
+
+
+
